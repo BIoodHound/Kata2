@@ -4,7 +4,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 public class Kata2 {
-    static int[] data = {5, 8, 21, 5, 12, 6, 1, 2, 6, 8, 3, 1, 8, 1, 53};
+    static Integer[] data = {5, 8, 21, 5, 12, 6, 1, 2, 6, 8, 3, 1, 8, 1, 53};
     static Histogram histo;
     static Map<Integer, Integer> histogr;
     
